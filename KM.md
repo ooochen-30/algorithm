@@ -1,5 +1,5 @@
 ### code
-```
+``` C++
 #include<iostream>
 #include<cstdio>
 #include<cstring>
